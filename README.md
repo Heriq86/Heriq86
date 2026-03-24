@@ -82,8 +82,6 @@ Atualmente cursando Pós-Graduação em Engenharia de Dados, possuo um perfil fo
 
 ---
 
----
-
 ### 📫 Como me encontrar:
 
 <div style="display: inline_block">
