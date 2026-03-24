@@ -2,7 +2,7 @@
 
 **Analista de Dados | Engenheiro de Dados Jr | Desenvolvedor Full Stack**
 
-Profissional de tecnologia com sólida base na gestão de operações, supply chain e controle de custos. Minha especialidade é atuar como uma ponte entre o negócio e a tecnologia: traduzindo regras complexas — como lógicas financeiras, projeções atreladas ao CDI, gestão de inventário e cálculo de CMV — em arquiteturas de software eficientes e pipelines de dados automatizados.
+Profissional de tecnologia com sólida base na gestão de operações, supply chain e controle de custos. Minha especialidade é atuar como uma ponte entre o negócio e a tecnologia: traduzindo regras complexas — como lógicas financeiras, gestão de inventário e cálculo de CMV — em arquiteturas de software eficientes e pipelines de dados automatizados.
 
 Atualmente cursando Pós-Graduação em Engenharia de Dados, possuo um perfil fortemente *hands-on*, focado em assumir a responsabilidade (ownership) de projetos de ponta a ponta.
 
@@ -65,7 +65,7 @@ Atualmente cursando Pós-Graduação em Engenharia de Dados, possuo um perfil fo
 
 ### 📂 Projetos em Destaque
 
-* **📊 Finanças Familiar (Finanças Pro):** Aplicação de inteligência financeira. Arquitetura Serverless (Firebase) com regras de negócio avançadas no back-end, incluindo cálculo de fluxo de caixa com reservas classificadas estritamente como investimentos e projeções a 102% do CDI.
+* **📊 Finanças Familiar :** Aplicação de inteligência financeira. Arquitetura Serverless (Firebase) com regras de negócio avançadas no back-end, incluindo cálculo de fluxo de caixa com reservas classificadas estritamente como investimentos.
 * **📦 HR Produções & Estoque:** Sistema web de gestão operacional focado em controle integrado de estoque, fichas técnicas e produção para otimização de CMV.
 * **🎮 The Last of Us - Landing Page:** Interface responsiva com foco em UX e manipulação dinâmica do DOM em Vanilla JS.
 
@@ -82,7 +82,15 @@ Atualmente cursando Pós-Graduação em Engenharia de Dados, possuo um perfil fo
 
 ---
 
+---
+
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-ribeiro-95a600119)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heriq86@gmail.com)
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/henrique-ribeiro-95a600119" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+  <a href="mailto:heriq86@gmail.com">
+    <img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" width="40" />
+  </a>
+</div>
