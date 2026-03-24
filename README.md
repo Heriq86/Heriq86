@@ -90,7 +90,7 @@ Atualmente cursando Pós-Graduação em Engenharia de Dados, possuo um perfil fo
   <a href="https://www.linkedin.com/in/henrique-ribeiro-95a600119" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-  <a href="mailto:heriq86@gmail.com">
-    <img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" width="40" />
-  </a>
+  <a href="mailto:heriq86@gmail.com"><a href="mailto:heriq86@gmail.com">
+  <img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" width="40" />
+</a>
 </div>
